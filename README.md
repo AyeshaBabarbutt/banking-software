@@ -1,1 +1,3 @@
-# banking-software
+File Handling in C++ 
+
+Banking System code for Open an Account , Balance Enquiry , Deposit , Withdrawal, Close an Account , Show All Accounts .....
